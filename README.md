@@ -1,6 +1,6 @@
 # Projeto Trainee ICMC Júnior - HR Analytics (Attrition)
 
-Este repositório contém o desenvolvimento do projeto trainee de Estatística do ICMC Júnior, focado em Análise de Dados e Machine Learning.
+Projeto trainee de Estatística do ICMC Júnior, focado em Análise de Dados e Machine Learning.
 
 ## Objetivo
 
