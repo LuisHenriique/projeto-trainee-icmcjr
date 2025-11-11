@@ -64,11 +64,11 @@ Na etapa final, os dados foram preparados para a modelagem e dois algoritmos for
     * **Regressão Logística:**
         * Hiperparâmetros otimizados com Grid Search (Melhores: `C=10`, `solver='liblinear'`).
         * Limiar de decisão ajustado para 0.3 para priorizar a identificação de possíveis saídas (aumentando o recall).
-        * **Resultado (Teste):** Acurácia de 69.02%, com um **Recall de 80%** para a classe "Yes" (previsão de saída).
+        * **Resultado (Teste):** Acurácia de 69.02%, com um **Recall de 80%** para a classe ("Yes" - 1) previsão de saída.
     * **Random Forest Classifier:**
         * Hiperparâmetros otimizados com Grid Search (Melhores: `max_depth=5`, `min_samples_leaf=4`, `n_estimators=100`).
         * Limiar de decisão ajustado para 0.35.
-        * **Resultado (Teste):** Acurácia de 64.13%, com um **Recall de 85%** para a classe "Yes".
+        * **Resultado (Teste):** Acurácia de 64.13%, com um **Recall de 85%** para a classe ("Yes" - 1).
 
 ## Bibliotecas Utilizadas
 
